@@ -1,3 +1,9 @@
+---
+layout: default
+title: Rotation Matrices
+description: This script is just used to demonstrate usage of Rotation Matrices in Robotics.  
+---
+
 Author: Yash Bansod  
 Date: 30th January, 2020  
 GitHub: https://github.com/YashBansod  
