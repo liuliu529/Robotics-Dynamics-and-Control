@@ -1,13 +1,9 @@
----
-layout: default
----  
-
 # [Robotics-Dynamics-and-Control](https://yashbansod.github.io/Robotics-Dynamics-and-Control/)
 This contains all the codes of the Robot Dynamics and Control Labs
 
 ### Project Contents:  
 - [Aux_1_Rotation Matrices](https://github.com/YashBansod/Robotics-Dynamics-and-Control/tree/master/Aux1_Rotation%20Matrices)
-    - [Aux_1_Rotation Matrices README](./Aux1_Rotation%20Matrices/README.html)
+    - [Aux_1_Rotation Matrices README](./Aux1_Rotation%20Matrices/README.md)
 - [Lab1_Robot Manipulator and Coordinates](https://github.com/YashBansod/Robotics-Dynamics-and-Control/tree/master/Lab1_Robot%20Manipulator%20and%20Coordinates)
 - [Lab2_2DOF Manipulator Inverse Kinematics](https://github.com/YashBansod/Robotics-Dynamics-and-Control/tree/master/Lab2_2DOF%20Manipulator%20Inverse%20Kinematics)
 - [Lab3_Inverse Algebraic Manipulator Control](https://github.com/YashBansod/Robotics-Dynamics-and-Control/tree/master/Lab3_Inverse%20Algebraic%20Manipulator%20Control)
